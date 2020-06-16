@@ -1,0 +1,2 @@
+rootProject.name='disable_button_when_edit_text_is_empty'
+include ':app'
